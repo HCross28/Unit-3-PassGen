@@ -38,19 +38,6 @@ textarea {
     color: #999;
 }
 
-button {
-    height: 60px;
-    width: 240px;
-    border: none;
-    border-radius: 30px;
-    background-color: maroon;
-    color: white;
-    font-size: 20px;
-    /*margin: 20px 12%; */
-    
-    
-}
-
 #generate {
     float: left;
     height: 60px;
@@ -60,7 +47,6 @@ button {
     background-color: maroon;
     color: white;
     font-size: 20px;
-    /*margin: 20px 30px 20px 100px;*/
     margin: 20px 0% 20px 10%;
 }
 
@@ -70,10 +56,9 @@ button {
     width: 240px;
     border: none;
     border-radius: 30px;
-    background-color: #eee;
+    background-color: #aaaac8;
     color: white;
     font-size: 20px;
-    /*margin: 20px 100px 20px 30px;*/
     margin: 20px 10% 20px 0%;
     
 }
