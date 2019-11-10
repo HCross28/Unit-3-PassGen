@@ -36,6 +36,12 @@ textarea {
     font-size: 25px;
     line-height: 60px;
     color: #999;
+    max-width: 90%;
+    max-height:200px;
+}
+
+button:hover {
+    cursor: pointer;
 }
 
 #generate {
@@ -47,7 +53,7 @@ textarea {
     background-color: maroon;
     color: white;
     font-size: 20px;
-    margin: 20px 0% 20px 10%;
+    margin: 30px 0% 20px 10%;
 }
 
 #copy {
@@ -59,6 +65,6 @@ textarea {
     background-color: #aaaac8;
     color: white;
     font-size: 20px;
-    margin: 20px 10% 20px 0%;
+    margin: 30px 10% 20px 0%;
     
 }
